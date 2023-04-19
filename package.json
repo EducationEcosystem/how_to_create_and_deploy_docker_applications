@@ -1,0 +1,15 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "A simple node server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Elliott Minns <elliott.minns@me.com>",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "mongoose": "^5.2.12"
+  }
+}
